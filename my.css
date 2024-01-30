@@ -1,0 +1,25 @@
+h1{
+    position: relative;
+    text-align: center;
+    color: white;
+    
+}
+img{
+position: relative;
+left: 34%;
+
+}
+p{
+text-align: center;
+color: azure;
+}
+
+body{
+background-color: black;
+
+}
+a{
+color:rgb( 224, 73, 179);
+
+
+}
